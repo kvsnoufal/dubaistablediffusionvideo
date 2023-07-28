@@ -10,5 +10,5 @@ Prompt interpolation and latent walk using Stable Diffusion.
 
 ## Sample Result
 
-<iframe width="560" height="315" src="https://youtu.be/HTU_nNVAvs4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Title](https://img.youtube.com/vi/HTU_nNVAvs4/0.jpg)](https://youtu.be/HTU_nNVAvs4)
 
